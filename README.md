@@ -4,7 +4,7 @@
 - 💞️ I'm open to collaborating on any projects involving Python, Java, or data analysis.
 - 📫 If you'd like to get in touch with me, you can reach me through [michael19990214@gmail.com].
 - 😄 Pronouns: He / Him / His
-- ⚡ Fun fact: I enjoy challenging myself.
+- ⚡ Fun fact: I enjoy challenging myself & enjoy my life .
 
 <!---
 Michael-Friday/Michael-Friday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
